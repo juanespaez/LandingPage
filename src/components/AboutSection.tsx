@@ -1,4 +1,4 @@
-import mentorImage from "@/assets/mentor-portrait.jpg";
+import mentorImage from "@/assets/Mentor-fullBody.png";
 import { CheckCircle } from "lucide-react";
 
 const highlights = [
