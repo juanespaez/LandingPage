@@ -2,7 +2,7 @@ import mentorImage from "@/assets/mentor-full-body.png";
 import { CheckCircle } from "lucide-react";
 
 const highlights = [
-  "20+ years of professional mentoring experience",
+  "20+ años de experiencia",
   "Certified life and career coach",
   "MBA from a top business school",
   "Featured speaker at international conferences",
@@ -41,11 +41,11 @@ const AboutSection = () => {
           <div className="space-y-8">
             <div className="space-y-4">
               <p className="text-primary font-medium tracking-wider uppercase text-sm">
-                About Me
+                Para Ustedes
               </p>
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
-                Empowering Your Journey to{" "}
-                <span className="text-gradient">Success</span>
+                Mentalidad, Dirección & Acción{" "}
+                <span className="block text-gradient"> claves del éxito </span>
               </h2>
             </div>
 
