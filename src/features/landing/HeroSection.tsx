@@ -17,14 +17,13 @@ const HeroSection = () => {
               Mentor • Coach • Guide
             </p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight">
-              Transform Your
-              <span className="block text-gradient">Life & Career</span>
+              Transforma
+              <span className="block text-gradient">Diseña tu perspéctiva</span>
             </h1>
           </div>
           
           <p className="text-muted-foreground text-lg md:text-xl max-w-xl mx-auto lg:mx-0 leading-relaxed">
-            With over 20 years of experience, I help individuals unlock their full potential 
-            through personalized guidance and proven strategies for success.
+            Quien eres? A donde vas? etc TODO
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
