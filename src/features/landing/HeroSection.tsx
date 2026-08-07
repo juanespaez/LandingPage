@@ -72,7 +72,7 @@ const HeroSection = () => {
             {/* Floating badge */}
             <div className="absolute -bottom-4 -left-4 glass rounded-2xl p-4 shadow-lg animate-float">
               <p className="text-sm font-medium text-foreground">⭐ Top Rated Mentor</p>
-              <p className="text-xs text-muted-foreground">Featured Expert 2026</p>
+              <p className="text-xs text-muted-foreground">Experto y Experimentado</p>
             </div>
           </div>
         </div>
