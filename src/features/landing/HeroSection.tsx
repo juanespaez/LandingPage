@@ -18,7 +18,9 @@ const HeroSection = () => {
             </p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight">
               Transforma
-              <span className="block text-gradient">Diseña tu perspéctiva</span>
+              <span className="block text-gradient whitespace-nowrap">
+  Diseña tu perspectiva
+</span>
             </h1>
           </div>
           
