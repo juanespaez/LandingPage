@@ -17,14 +17,15 @@ const HeroSection = () => {
               Mentor • Coach • Guide
             </p>
             <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight">
-              Transform Your
-              <span className="block text-gradient">Life & Career</span>
+              Transforma
+              <span className="block text-gradient whitespace-nowrap">
+  Diseña tu perspectiva
+</span>
             </h1>
           </div>
           
           <p className="text-muted-foreground text-lg md:text-xl max-w-xl mx-auto lg:mx-0 leading-relaxed">
-            With over 20 years of experience, I help individuals unlock their full potential 
-            through personalized guidance and proven strategies for success.
+            Quien eres? A donde vas? etc TODO
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
@@ -72,8 +73,8 @@ const HeroSection = () => {
             
             {/* Floating badge */}
             <div className="absolute -bottom-4 -left-4 glass rounded-2xl p-4 shadow-lg animate-float">
-              <p className="text-sm font-medium text-foreground">⭐ Top Rated Mentor</p>
-              <p className="text-xs text-muted-foreground">Featured Expert 2026</p>
+              <p className="text-sm font-medium text-foreground">⭐ Mentor De Confianza</p>
+              <p className="text-xs text-muted-foreground">Atento y Efectivo</p>
             </div>
           </div>
         </div>
