@@ -2,11 +2,11 @@ import mentorImage from "@/assets/mentor-full-body.png";
 import { CheckCircle } from "lucide-react";
 
 const highlights = [
-  "20+ años de experiencia",
-  "Certified life and career coach",
-  "MBA from a top business school",
-  "Featured speaker at international conferences",
-  "Author of best-selling personal development books",
+  "Identificar sus objetivos",
+  "Determinar las herramientas",
+  "Crear el camino para alcanzarlos",
+  "Utilizar las oportunidades eficientemente",
+  "Deshacerse de las debilidades",
 ];
 
 const AboutSection = () => {
@@ -49,15 +49,17 @@ const AboutSection = () => {
               </h2>
             </div>
 
-            <div className="space-y-4 text-muted-foreground text-lg leading-relaxed">
+            <div className="space-y-4 text-muted-foreground text-lg leading-relaxed text-justify">
               <p>
-                With a passion for helping others achieve their dreams, I've dedicated 
-                my career to guiding individuals through their most challenging transitions 
-                and helping them discover their true potential.
+                La vida es una suma de acciones que nos llevan a un
+                resultado relacionado a la individualidad de nuestras acciones.
               </p>
               <p>
-                My approach combines practical strategies with deep personal insight, 
-                creating a supportive environment where transformation happens naturally.
+                Nuestro objetivo es enseñarles a volverse conscientes de las acciones
+                que toman en el presente y las que van a tomar en el futuro, les enseñamos
+                a darle dirección al proyecto o sueño y convertirlo en una realidad.
+                No con lecciones teóricas sino con acciones prácticas que han dado resultado
+                a cientos de personas.Recibirán una guía personalizada para:
               </p>
             </div>
 
