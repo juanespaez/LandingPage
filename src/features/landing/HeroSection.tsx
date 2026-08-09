@@ -25,7 +25,11 @@ const HeroSection = () => {
           </div>
           
           <p className="text-muted-foreground text-lg md:text-xl max-w-xl mx-auto lg:mx-0 leading-relaxed">
-            Quien eres? A donde vas? etc TODO
+              ¿Quién eres?, ¿A dónde vas?, ¿Qué ves en tu vida en este momento y qué ves en el futuro?
+              Los seres humanos hacemos parte de un universo de infinitas posibilidades, somos partículas
+              de energía que se condensan para formar materia, pero ¿Qué pasaría si así como nos formamos
+              a nosotros mismos creáramos las situaciones y el ambiente que queremos a nuestro alrededor?
+              ¿Qué pasaría si lo que parece un sueño se convierte en una realidad?
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
