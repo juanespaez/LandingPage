@@ -1,6 +1,7 @@
 import mentorImage from "@/assets/mentor-portrait.jpg";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Calendar } from "lucide-react";
+import { Link } from "react-router-dom";
 
 const HeroSection = () => {
   return (
@@ -76,10 +77,13 @@ const HeroSection = () => {
             </div>
             
             {/* Floating badge */}
-            <div className="absolute -bottom-4 -left-4 glass rounded-2xl p-4 shadow-lg animate-float">
+            <Link
+              to="/about-leo"
+              className="absolute -bottom-4 -left-4 glass rounded-2xl p-4 shadow-lg animate-float hover:shadow-xl hover:-translate-y-0.5 transition-all duration-300 cursor-pointer"
+            >
               <p className="text-sm font-medium text-foreground">⭐ Mentor De Confianza</p>
               <p className="text-xs text-muted-foreground">Atento y Efectivo</p>
-            </div>
+            </Link>
           </div>
         </div>
       </div>
