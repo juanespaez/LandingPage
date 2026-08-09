@@ -19,17 +19,17 @@ const HeroSection = () => {
             <h1 className="text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight">
               Transforma
               <span className="block text-gradient whitespace-nowrap">
-  Diseña tu perspectiva
-</span>
+                Diseña tu perspectiva
+              </span>
             </h1>
           </div>
           
-          <p className="text-muted-foreground text-lg md:text-xl max-w-xl mx-auto lg:mx-0 leading-relaxed">
-              ¿Quién eres?, ¿A dónde vas?, ¿Qué ves en tu vida en este momento y qué ves en el futuro?
-              Los seres humanos hacemos parte de un universo de infinitas posibilidades, somos partículas
-              de energía que se condensan para formar materia, pero ¿Qué pasaría si así como nos formamos
-              a nosotros mismos creáramos las situaciones y el ambiente que queremos a nuestro alrededor?
-              ¿Qué pasaría si lo que parece un sueño se convierte en una realidad?
+          <p className="text-muted-foreground text-lg md:text-xl max-w-xl mx-auto lg:mx-0 leading-relaxed text-justify">
+            ¿Quién eres?, ¿A dónde vas?, ¿Qué ves en tu vida en este momento y qué ves en el futuro?
+            Los seres humanos hacemos parte de un universo de infinitas posibilidades, somos partículas
+            de energía que se condensan para formar materia, pero ¿Qué pasaría si así como nos formamos
+            a nosotros mismos creáramos las situaciones y el ambiente que queremos a nuestro alrededor?
+            ¿Qué pasaría si lo que parece un sueño se convierte en una realidad?
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
