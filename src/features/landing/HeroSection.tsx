@@ -79,7 +79,7 @@ const HeroSection = () => {
             {/* Floating badge */}
             <Link
               to="/about-leo"
-              className="absolute -bottom-4 -left-4 glass rounded-2xl p-4 shadow-lg animate-float hover:shadow-xl hover:-translate-y-0.5 transition-all duration-300 cursor-pointer"
+              className="absolute -bottom-4 -left-4 glass rounded-2xl p-4 shadow-lg animate-float [animation-duration:4.5s] hover:shadow-xl hover:-translate-y-0.5 transition-all duration-300 cursor-pointer"
             >
               <p className="text-sm font-medium text-foreground">⭐ Mentor De Confianza</p>
               <p className="text-xs text-muted-foreground">Atento y Efectivo</p>
